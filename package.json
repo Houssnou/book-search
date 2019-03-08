@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexrosenkranz/google-books.git"
+    "url": "git+https://github.com/Houssnou/book-search.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alexrosenkranz/google-books/issues"
+    "url": "https://github.com/Houssnou/book-search.issues"
   },
-  "homepage": "https://github.com/alexrosenkranz/google-books#readme",
+  "homepage": "https://github.com/Houssnou/book-search#readme",
   "dependencies": {
     "concurrently": "^4.1.0",
     "express": "^4.16.4",
